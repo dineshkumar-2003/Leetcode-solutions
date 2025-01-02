@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0274-h-index) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->

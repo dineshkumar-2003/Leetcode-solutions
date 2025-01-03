@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0274-h-index) |
+| [2358-number-of-ways-to-split-array](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 ## Sorting
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+## Prefix Sum
+|  |
+| ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->

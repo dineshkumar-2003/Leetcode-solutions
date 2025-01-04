@@ -20,8 +20,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
+## Hash Table
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->

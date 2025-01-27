@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0274-h-index) |
+| [0560-subarray-sum-equals-k](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2358-number-of-ways-to-split-array](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 ## Sorting
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |

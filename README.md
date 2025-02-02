@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0274-h-index) |
 | [0560-subarray-sum-equals-k](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2358-number-of-ways-to-split-array](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [3429-special-array-i](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/3429-special-array-i) |

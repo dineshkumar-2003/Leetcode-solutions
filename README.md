@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0274-h-index) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |

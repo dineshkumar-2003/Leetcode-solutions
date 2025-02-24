@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0274-h-index) |
 | [0560-subarray-sum-equals-k](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0777-toeplitz-matrix](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0777-toeplitz-matrix](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0777-toeplitz-matrix) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/dineshkumar-2003/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
